@@ -14,4 +14,4 @@ Currently 10 methods are supported:
 - Spearman's Correlation Coefficient
 
 For example use cases of such filter-based feature ranking algorithms, check out the following repositories which have used some or all of the methods listed above:
---
+-/ 
